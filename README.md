@@ -1,6 +1,6 @@
 # HumanSkinSegmentation
 
-TODO: document pre-processing/training/testing steps
+# TODO: document pre-processing/training/testing steps
 
 FSD Dataset: https://documents.uow.edu.au/~phung/download.html 
 
