@@ -1,1 +1,3 @@
 # HumanSkinSegmentation
+
+TODO: update information
