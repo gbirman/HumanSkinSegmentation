@@ -1,6 +1,6 @@
-# Human Skin Segmentation 
+# Pytorch Human Skin Segmentation CNN
 
-Hi, this repository includes Python/Pytorch files used to create a single-frame and multi-frame human skin detection CNN. Please see the included paper for more details. These data sources were used:
+This repository includes a set of Python/Pytorch files used to create a single-frame and multi-frame human skin segmentation CNN. Please see the included paper for more details. The data sources can be found here (but could require permission to access):
 
 FSD Dataset: https://documents.uow.edu.au/~phung/download.html 
 
